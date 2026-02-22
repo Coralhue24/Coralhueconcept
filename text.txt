@@ -1,1 +1,2 @@
 <form action="https://formspree.io/f/mynumber123" method="POST">
+<a href="https://wa.me/2348060454366" class="whatsapp" target="_blank">Chat on WhatsApp</a>
