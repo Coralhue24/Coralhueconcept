@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Coral Hue | Nationwide Painting & Screeding Experts</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <div class="logo">Coral Hue</div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#services">Services</a>
+    <a href="#projects">Projects</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero" id="home">
+  <h1>Professional Painting & Screeding Services Across Nigeria</h1>
+  <p>Delivering Premium Finishing for Residential & Commercial Projects.</p>
+  <a href="#contact" class="btn">Request a Quote</a>
+</section>
+
+<section id="services">
+  <h2>Our Services</h2>
+  <div class="service-box">
+    <h3>Interior & Exterior Painting</h3>
+    <p>High-quality finishes that last.</p>
+  </div>
+  <div class="service-box">
+    <h3>Floor Screeding</h3>
+    <p>Level and durable flooring solutions.</p>
+  </div>
+</section>
+
+<section id="projects">
+  <h2>Our Projects</h2>
+  <p>Quality craftsmanship delivered nationwide.</p>
+</section>
+
+<section id="contact">
+  <h2>Request a Quote</h2>
+
+  <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+    <input type="text" name="name" placeholder="Full Name" required>
+    <input type="tel" name="phone" placeholder="Phone Number" required>
+    <input type="text" name="location" placeholder="Project Location" required>
+    <textarea name="message" placeholder="Describe your project" required></textarea>
+    <button type="submit">Submit Request</button>
+  </form>
+
+  <p>📞 08060454366</p>
+  <p>📧 coralhueconcept.ng@gmail.com</p>
+</section>
+
+<a href="https://wa.me/2348060454366" class="whatsapp" target="_blank">Chat on WhatsApp</a>
+
+<footer>
+  <p>© 2026 Coral Hue. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
